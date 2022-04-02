@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kody/static/css/main.fab6f5ce.css",
+    "main.js": "/kody/static/js/main.7ddd9872.js",
+    "static/js/787.f5587e0a.chunk.js": "/kody/static/js/787.f5587e0a.chunk.js",
+    "index.html": "/kody/index.html",
+    "main.fab6f5ce.css.map": "/kody/static/css/main.fab6f5ce.css.map",
+    "main.7ddd9872.js.map": "/kody/static/js/main.7ddd9872.js.map",
+    "787.f5587e0a.chunk.js.map": "/kody/static/js/787.f5587e0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab6f5ce.css",
+    "static/js/main.7ddd9872.js"
+  ]
+}
